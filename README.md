@@ -1,2 +1,2 @@
-# fallout-special-edition
-A modpack for Fallout 3 and Fallout New Vegas based around the Tale of Two Wastlands mod
+# Fallout S.P.E.C.I.A.L. Edition
+For more info go here -> http://www.brendonbanville.com/fallout-special-edition/
